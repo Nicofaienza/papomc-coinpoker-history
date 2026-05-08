@@ -1,0 +1,1497 @@
+{
+  "snap_date": "2026-05-08",
+  "period": "May 2026",
+  "type": "rake",
+  "taken_at": "2026-05-08T14:04:19Z",
+  "slot_label": "14h UTC",
+  "players": [
+    {
+      "position": 1,
+      "name": "Lochin",
+      "value": 94.84,
+      "prize": "$890"
+    },
+    {
+      "position": 2,
+      "name": "Aldrish",
+      "value": 51.27,
+      "prize": "$600"
+    },
+    {
+      "position": 3,
+      "name": "rageraising",
+      "value": 28.82,
+      "prize": "$450"
+    },
+    {
+      "position": 4,
+      "name": "GreyGrey",
+      "value": 28.33,
+      "prize": "$320"
+    },
+    {
+      "position": 5,
+      "name": "stable575918211",
+      "value": 25.37,
+      "prize": "$260"
+    },
+    {
+      "position": 6,
+      "name": "Birreado",
+      "value": 22.24,
+      "prize": "$220"
+    },
+    {
+      "position": 7,
+      "name": "adorable2157936",
+      "value": 17.44,
+      "prize": "$190"
+    },
+    {
+      "position": 8,
+      "name": "Fraches",
+      "value": 16.79,
+      "prize": "$170"
+    },
+    {
+      "position": 9,
+      "name": "TTNacho",
+      "value": 16.34,
+      "prize": "$155"
+    },
+    {
+      "position": 10,
+      "name": "artistic6104499",
+      "value": 15.71,
+      "prize": "$145"
+    },
+    {
+      "position": 11,
+      "name": "profuse96552392",
+      "value": 14.81,
+      "prize": "$135"
+    },
+    {
+      "position": 12,
+      "name": "angelic97145285",
+      "value": 10.14,
+      "prize": "$125"
+    },
+    {
+      "position": 13,
+      "name": "HappyEVMachine",
+      "value": 10.1,
+      "prize": "$120"
+    },
+    {
+      "position": 14,
+      "name": "kkkpc",
+      "value": 8.68,
+      "prize": "$115"
+    },
+    {
+      "position": 15,
+      "name": "weird3873156178",
+      "value": 7.95,
+      "prize": "$105"
+    },
+    {
+      "position": 16,
+      "name": "thin93904714987",
+      "value": 7.72,
+      "prize": null
+    },
+    {
+      "position": 17,
+      "name": "educated8028464",
+      "value": 7.51,
+      "prize": null
+    },
+    {
+      "position": 18,
+      "name": "B3B3L0",
+      "value": 7.37,
+      "prize": null
+    },
+    {
+      "position": 19,
+      "name": "spotless0985733",
+      "value": 7.23,
+      "prize": null
+    },
+    {
+      "position": 20,
+      "name": "Zurdo13Chaca",
+      "value": 7.23,
+      "prize": null
+    },
+    {
+      "position": 21,
+      "name": "ElDon84",
+      "value": 7.15,
+      "prize": null
+    },
+    {
+      "position": 22,
+      "name": "rough9816951144",
+      "value": 7.12,
+      "prize": null
+    },
+    {
+      "position": 23,
+      "name": "JustEnjoy",
+      "value": 5.88,
+      "prize": null
+    },
+    {
+      "position": 24,
+      "name": "metallic9304342",
+      "value": 5.11,
+      "prize": null
+    },
+    {
+      "position": 25,
+      "name": "Badgarlic7",
+      "value": 5.01,
+      "prize": null
+    },
+    {
+      "position": 26,
+      "name": "honest796452996",
+      "value": 4.89,
+      "prize": null
+    },
+    {
+      "position": 27,
+      "name": "faint4983802266",
+      "value": 4.87,
+      "prize": null
+    },
+    {
+      "position": 28,
+      "name": "putrid143661271",
+      "value": 4.77,
+      "prize": null
+    },
+    {
+      "position": 29,
+      "name": "comfortable4731",
+      "value": 4.66,
+      "prize": null
+    },
+    {
+      "position": 30,
+      "name": "drab57180069047",
+      "value": 4.5,
+      "prize": null
+    },
+    {
+      "position": 31,
+      "name": "soupy8849972685",
+      "value": 4.32,
+      "prize": null
+    },
+    {
+      "position": 32,
+      "name": "welllit46391430",
+      "value": 4.3,
+      "prize": null
+    },
+    {
+      "position": 33,
+      "name": "GoldenKCM",
+      "value": 4.07,
+      "prize": null
+    },
+    {
+      "position": 34,
+      "name": "corny6615040678",
+      "value": 3.92,
+      "prize": null
+    },
+    {
+      "position": 35,
+      "name": "Manucho1987",
+      "value": 3.76,
+      "prize": null
+    },
+    {
+      "position": 36,
+      "name": "Tiagocalvi23",
+      "value": 3.52,
+      "prize": null
+    },
+    {
+      "position": 37,
+      "name": "Cucaa",
+      "value": 3.48,
+      "prize": null
+    },
+    {
+      "position": 38,
+      "name": "SangreCharrua",
+      "value": 3.35,
+      "prize": null
+    },
+    {
+      "position": 39,
+      "name": "Rusov259",
+      "value": 3.3,
+      "prize": null
+    },
+    {
+      "position": 40,
+      "name": "cavernous647000",
+      "value": 3.15,
+      "prize": null
+    },
+    {
+      "position": 41,
+      "name": "cultivated43076",
+      "value": 3.05,
+      "prize": null
+    },
+    {
+      "position": 42,
+      "name": "rowdy8387137910",
+      "value": 3.0,
+      "prize": null
+    },
+    {
+      "position": 43,
+      "name": "junior336064673",
+      "value": 2.93,
+      "prize": null
+    },
+    {
+      "position": 44,
+      "name": "leonarod91",
+      "value": 2.91,
+      "prize": null
+    },
+    {
+      "position": 45,
+      "name": "ElTioDrill",
+      "value": 2.79,
+      "prize": null
+    },
+    {
+      "position": 46,
+      "name": "dull86718095582",
+      "value": 2.69,
+      "prize": null
+    },
+    {
+      "position": 47,
+      "name": "fond83389466760",
+      "value": 2.52,
+      "prize": null
+    },
+    {
+      "position": 48,
+      "name": "Sebasvzla",
+      "value": 2.51,
+      "prize": null
+    },
+    {
+      "position": 49,
+      "name": "sentimental3689",
+      "value": 2.39,
+      "prize": null
+    },
+    {
+      "position": 50,
+      "name": "Ferchoh",
+      "value": 2.32,
+      "prize": null
+    },
+    {
+      "position": 51,
+      "name": "hot465731063240",
+      "value": 2.31,
+      "prize": null
+    },
+    {
+      "position": 52,
+      "name": "Trewtor",
+      "value": 2.23,
+      "prize": null
+    },
+    {
+      "position": 53,
+      "name": "babyuzi",
+      "value": 2.22,
+      "prize": null
+    },
+    {
+      "position": 54,
+      "name": "TuTens",
+      "value": 2.16,
+      "prize": null
+    },
+    {
+      "position": 55,
+      "name": "pleasant7804561",
+      "value": 2.14,
+      "prize": null
+    },
+    {
+      "position": 56,
+      "name": "SebAsdepicas",
+      "value": 2.14,
+      "prize": null
+    },
+    {
+      "position": 57,
+      "name": "ARgen1995",
+      "value": 2.14,
+      "prize": null
+    },
+    {
+      "position": 58,
+      "name": "Gadorca",
+      "value": 2.07,
+      "prize": null
+    },
+    {
+      "position": 59,
+      "name": "reliable5926124",
+      "value": 2.0,
+      "prize": null
+    },
+    {
+      "position": 60,
+      "name": "Bluffcacher",
+      "value": 1.98,
+      "prize": null
+    },
+    {
+      "position": 61,
+      "name": "generous8327020",
+      "value": 1.92,
+      "prize": null
+    },
+    {
+      "position": 62,
+      "name": "GuatonChanta",
+      "value": 1.88,
+      "prize": null
+    },
+    {
+      "position": 63,
+      "name": "insistent116584",
+      "value": 1.87,
+      "prize": null
+    },
+    {
+      "position": 64,
+      "name": "Neiwel",
+      "value": 1.84,
+      "prize": null
+    },
+    {
+      "position": 65,
+      "name": "Aveto",
+      "value": 1.75,
+      "prize": null
+    },
+    {
+      "position": 66,
+      "name": "hefty4289733375",
+      "value": 1.74,
+      "prize": null
+    },
+    {
+      "position": 67,
+      "name": "PulitzerPoker",
+      "value": 1.74,
+      "prize": null
+    },
+    {
+      "position": 68,
+      "name": "mature437951360",
+      "value": 1.73,
+      "prize": null
+    },
+    {
+      "position": 69,
+      "name": "Venuss",
+      "value": 1.7,
+      "prize": null
+    },
+    {
+      "position": 70,
+      "name": "Syonek",
+      "value": 1.69,
+      "prize": null
+    },
+    {
+      "position": 71,
+      "name": "imaginary117325",
+      "value": 1.69,
+      "prize": null
+    },
+    {
+      "position": 72,
+      "name": "dAKface",
+      "value": 1.68,
+      "prize": null
+    },
+    {
+      "position": 73,
+      "name": "obese7408964459",
+      "value": 1.66,
+      "prize": null
+    },
+    {
+      "position": 74,
+      "name": "lopsided9657832",
+      "value": 1.55,
+      "prize": null
+    },
+    {
+      "position": 75,
+      "name": "dreary091331958",
+      "value": 1.55,
+      "prize": null
+    },
+    {
+      "position": 76,
+      "name": "artistic5050759",
+      "value": 1.55,
+      "prize": null
+    },
+    {
+      "position": 77,
+      "name": "greedy114892261",
+      "value": 1.48,
+      "prize": null
+    },
+    {
+      "position": 78,
+      "name": "leafy0177265885",
+      "value": 1.48,
+      "prize": null
+    },
+    {
+      "position": 79,
+      "name": "zfabro",
+      "value": 1.47,
+      "prize": null
+    },
+    {
+      "position": 80,
+      "name": "Sebiche27",
+      "value": 1.45,
+      "prize": null
+    },
+    {
+      "position": 81,
+      "name": "SeniorT",
+      "value": 1.45,
+      "prize": null
+    },
+    {
+      "position": 82,
+      "name": "Isohunt",
+      "value": 1.35,
+      "prize": null
+    },
+    {
+      "position": 83,
+      "name": "hospitable96329",
+      "value": 1.32,
+      "prize": null
+    },
+    {
+      "position": 84,
+      "name": "FaqMz",
+      "value": 1.32,
+      "prize": null
+    },
+    {
+      "position": 85,
+      "name": "JohnBen19",
+      "value": 1.31,
+      "prize": null
+    },
+    {
+      "position": 86,
+      "name": "CarlosJg",
+      "value": 1.31,
+      "prize": null
+    },
+    {
+      "position": 87,
+      "name": "haunting2197200",
+      "value": 1.3,
+      "prize": null
+    },
+    {
+      "position": 88,
+      "name": "isfoldandcall",
+      "value": 1.3,
+      "prize": null
+    },
+    {
+      "position": 89,
+      "name": "loving246664799",
+      "value": 1.28,
+      "prize": null
+    },
+    {
+      "position": 90,
+      "name": "rodro57",
+      "value": 1.27,
+      "prize": null
+    },
+    {
+      "position": 91,
+      "name": "stunning0813711",
+      "value": 1.26,
+      "prize": null
+    },
+    {
+      "position": 92,
+      "name": "KeO420",
+      "value": 1.26,
+      "prize": null
+    },
+    {
+      "position": 93,
+      "name": "Byakugan1937",
+      "value": 1.25,
+      "prize": null
+    },
+    {
+      "position": 94,
+      "name": "soggy4263984106",
+      "value": 1.25,
+      "prize": null
+    },
+    {
+      "position": 95,
+      "name": "metallic0858922",
+      "value": 1.2,
+      "prize": null
+    },
+    {
+      "position": 96,
+      "name": "square179473753",
+      "value": 1.18,
+      "prize": null
+    },
+    {
+      "position": 97,
+      "name": "pulgasanyo",
+      "value": 1.15,
+      "prize": null
+    },
+    {
+      "position": 98,
+      "name": "Sisombo",
+      "value": 1.13,
+      "prize": null
+    },
+    {
+      "position": 99,
+      "name": "1zmeu",
+      "value": 1.03,
+      "prize": null
+    },
+    {
+      "position": 100,
+      "name": "rxsta",
+      "value": 1.02,
+      "prize": null
+    },
+    {
+      "position": 101,
+      "name": "personal7619326",
+      "value": 1.01,
+      "prize": null
+    },
+    {
+      "position": 102,
+      "name": "RoaBelmont",
+      "value": 1.01,
+      "prize": null
+    },
+    {
+      "position": 103,
+      "name": "SlleweN",
+      "value": 0.97,
+      "prize": null
+    },
+    {
+      "position": 104,
+      "name": "RamiroMoreno",
+      "value": 0.92,
+      "prize": null
+    },
+    {
+      "position": 105,
+      "name": "motherly0889675",
+      "value": 0.9,
+      "prize": null
+    },
+    {
+      "position": 106,
+      "name": "tricky671889076",
+      "value": 0.87,
+      "prize": null
+    },
+    {
+      "position": 107,
+      "name": "mellow866142450",
+      "value": 0.85,
+      "prize": null
+    },
+    {
+      "position": 108,
+      "name": "Bushineitor",
+      "value": 0.82,
+      "prize": null
+    },
+    {
+      "position": 109,
+      "name": "other8483937146",
+      "value": 0.8,
+      "prize": null
+    },
+    {
+      "position": 110,
+      "name": "sorrowful067317",
+      "value": 0.8,
+      "prize": null
+    },
+    {
+      "position": 111,
+      "name": "Fuegian",
+      "value": 0.8,
+      "prize": null
+    },
+    {
+      "position": 112,
+      "name": "delectable31297",
+      "value": 0.79,
+      "prize": null
+    },
+    {
+      "position": 113,
+      "name": "DAAMMMMMM",
+      "value": 0.79,
+      "prize": null
+    },
+    {
+      "position": 114,
+      "name": "unnatural170057",
+      "value": 0.75,
+      "prize": null
+    },
+    {
+      "position": 115,
+      "name": "Chucky596",
+      "value": 0.75,
+      "prize": null
+    },
+    {
+      "position": 116,
+      "name": "themagician32",
+      "value": 0.73,
+      "prize": null
+    },
+    {
+      "position": 117,
+      "name": "open45695136793",
+      "value": 0.72,
+      "prize": null
+    },
+    {
+      "position": 118,
+      "name": "nimble103888322",
+      "value": 0.71,
+      "prize": null
+    },
+    {
+      "position": 119,
+      "name": "GordoJ",
+      "value": 0.7,
+      "prize": null
+    },
+    {
+      "position": 120,
+      "name": "excitable907712",
+      "value": 0.68,
+      "prize": null
+    },
+    {
+      "position": 121,
+      "name": "corrupt48453129",
+      "value": 0.68,
+      "prize": null
+    },
+    {
+      "position": 122,
+      "name": "dependable25045",
+      "value": 0.66,
+      "prize": null
+    },
+    {
+      "position": 123,
+      "name": "CarlosLozada",
+      "value": 0.61,
+      "prize": null
+    },
+    {
+      "position": 124,
+      "name": "VikazZz",
+      "value": 0.6,
+      "prize": null
+    },
+    {
+      "position": 125,
+      "name": "icy890880753715",
+      "value": 0.58,
+      "prize": null
+    },
+    {
+      "position": 126,
+      "name": "KINIROD6",
+      "value": 0.58,
+      "prize": null
+    },
+    {
+      "position": 127,
+      "name": "facundorico",
+      "value": 0.56,
+      "prize": null
+    },
+    {
+      "position": 128,
+      "name": "Santiago2424",
+      "value": 0.55,
+      "prize": null
+    },
+    {
+      "position": 129,
+      "name": "Mart1noli",
+      "value": 0.54,
+      "prize": null
+    },
+    {
+      "position": 130,
+      "name": "disguised030766",
+      "value": 0.52,
+      "prize": null
+    },
+    {
+      "position": 131,
+      "name": "CasteGaston",
+      "value": 0.52,
+      "prize": null
+    },
+    {
+      "position": 132,
+      "name": "fhakyr",
+      "value": 0.52,
+      "prize": null
+    },
+    {
+      "position": 133,
+      "name": "Gatica10a",
+      "value": 0.52,
+      "prize": null
+    },
+    {
+      "position": 134,
+      "name": "Patronus878",
+      "value": 0.51,
+      "prize": null
+    },
+    {
+      "position": 135,
+      "name": "large4549776210",
+      "value": 0.5,
+      "prize": null
+    },
+    {
+      "position": 136,
+      "name": "Cricadamo",
+      "value": 0.47,
+      "prize": null
+    },
+    {
+      "position": 137,
+      "name": "Nico007",
+      "value": 0.46,
+      "prize": null
+    },
+    {
+      "position": 138,
+      "name": "basic7325339144",
+      "value": 0.46,
+      "prize": null
+    },
+    {
+      "position": 139,
+      "name": "plump3439465025",
+      "value": 0.45,
+      "prize": null
+    },
+    {
+      "position": 140,
+      "name": "lilConci",
+      "value": 0.43,
+      "prize": null
+    },
+    {
+      "position": 141,
+      "name": "Mattorra",
+      "value": 0.43,
+      "prize": null
+    },
+    {
+      "position": 142,
+      "name": "joanpodo",
+      "value": 0.43,
+      "prize": null
+    },
+    {
+      "position": 143,
+      "name": "torito14",
+      "value": 0.38,
+      "prize": null
+    },
+    {
+      "position": 144,
+      "name": "few320724117537",
+      "value": 0.37,
+      "prize": null
+    },
+    {
+      "position": 145,
+      "name": "Pelacalister",
+      "value": 0.37,
+      "prize": null
+    },
+    {
+      "position": 146,
+      "name": "plaintive544237",
+      "value": 0.35,
+      "prize": null
+    },
+    {
+      "position": 147,
+      "name": "karlosconka",
+      "value": 0.35,
+      "prize": null
+    },
+    {
+      "position": 148,
+      "name": "PBlivin",
+      "value": 0.34,
+      "prize": null
+    },
+    {
+      "position": 149,
+      "name": "DOFLAMING0",
+      "value": 0.34,
+      "prize": null
+    },
+    {
+      "position": 150,
+      "name": "DCortex",
+      "value": 0.34,
+      "prize": null
+    },
+    {
+      "position": 151,
+      "name": "Catiels",
+      "value": 0.33,
+      "prize": null
+    },
+    {
+      "position": 152,
+      "name": "MarcosGK",
+      "value": 0.33,
+      "prize": null
+    },
+    {
+      "position": 153,
+      "name": "terrible6644865",
+      "value": 0.32,
+      "prize": null
+    },
+    {
+      "position": 154,
+      "name": "SantiCrocco26",
+      "value": 0.32,
+      "prize": null
+    },
+    {
+      "position": 155,
+      "name": "AlvarezJJ",
+      "value": 0.31,
+      "prize": null
+    },
+    {
+      "position": 156,
+      "name": "louloumal",
+      "value": 0.31,
+      "prize": null
+    },
+    {
+      "position": 157,
+      "name": "DonHormigon",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 158,
+      "name": "Skullgreek",
+      "value": 0.28,
+      "prize": null
+    },
+    {
+      "position": 159,
+      "name": "TarkPR",
+      "value": 0.28,
+      "prize": null
+    },
+    {
+      "position": 160,
+      "name": "Stiuso",
+      "value": 0.28,
+      "prize": null
+    },
+    {
+      "position": 161,
+      "name": "GGaLinier",
+      "value": 0.27,
+      "prize": null
+    },
+    {
+      "position": 162,
+      "name": "ChasttyAR",
+      "value": 0.26,
+      "prize": null
+    },
+    {
+      "position": 163,
+      "name": "Pablo18",
+      "value": 0.26,
+      "prize": null
+    },
+    {
+      "position": 164,
+      "name": "Seraker",
+      "value": 0.26,
+      "prize": null
+    },
+    {
+      "position": 165,
+      "name": "Idea11",
+      "value": 0.25,
+      "prize": null
+    },
+    {
+      "position": 166,
+      "name": "Psicomanthis",
+      "value": 0.24,
+      "prize": null
+    },
+    {
+      "position": 167,
+      "name": "LeoDeSuncha",
+      "value": 0.24,
+      "prize": null
+    },
+    {
+      "position": 168,
+      "name": "RengoRC",
+      "value": 0.24,
+      "prize": null
+    },
+    {
+      "position": 169,
+      "name": "CALLEAMESTA",
+      "value": 0.24,
+      "prize": null
+    },
+    {
+      "position": 170,
+      "name": "friendly7064453",
+      "value": 0.23,
+      "prize": null
+    },
+    {
+      "position": 171,
+      "name": "zany63851156915",
+      "value": 0.23,
+      "prize": null
+    },
+    {
+      "position": 172,
+      "name": "plastic31932678",
+      "value": 0.23,
+      "prize": null
+    },
+    {
+      "position": 173,
+      "name": "common078036481",
+      "value": 0.23,
+      "prize": null
+    },
+    {
+      "position": 174,
+      "name": "EndxRCC",
+      "value": 0.22,
+      "prize": null
+    },
+    {
+      "position": 175,
+      "name": "waskandconch",
+      "value": 0.22,
+      "prize": null
+    },
+    {
+      "position": 176,
+      "name": "MonoConNavaja",
+      "value": 0.22,
+      "prize": null
+    },
+    {
+      "position": 177,
+      "name": "GARROTE",
+      "value": 0.21,
+      "prize": null
+    },
+    {
+      "position": 178,
+      "name": "Skill1",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 179,
+      "name": "RodriSZ",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 180,
+      "name": "ESHV2503",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 181,
+      "name": "v1t1n3",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 182,
+      "name": "agreeable240469",
+      "value": 0.17,
+      "prize": null
+    },
+    {
+      "position": 183,
+      "name": "DobleL",
+      "value": 0.16,
+      "prize": null
+    },
+    {
+      "position": 184,
+      "name": "positive9081175",
+      "value": 0.16,
+      "prize": null
+    },
+    {
+      "position": 185,
+      "name": "attentive068747",
+      "value": 0.16,
+      "prize": null
+    },
+    {
+      "position": 186,
+      "name": "Rleguiza10",
+      "value": 0.16,
+      "prize": null
+    },
+    {
+      "position": 187,
+      "name": "happy7544724688",
+      "value": 0.14,
+      "prize": null
+    },
+    {
+      "position": 188,
+      "name": "unsightly123162",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 189,
+      "name": "simplistic04910",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 190,
+      "name": "livid8716377611",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 191,
+      "name": "burly1667027976",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 192,
+      "name": "FerAlvarez",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 193,
+      "name": "Gregacido",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 194,
+      "name": "annual126042278",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 195,
+      "name": "ma1ron",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 196,
+      "name": "scornful5426621",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 197,
+      "name": "foolish31046722",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 198,
+      "name": "live68054482411",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 199,
+      "name": "dependent577311",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 200,
+      "name": "Timb3roAR",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 201,
+      "name": "lovable32677810",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 202,
+      "name": "opulent94573188",
+      "value": 0.12,
+      "prize": null
+    },
+    {
+      "position": 203,
+      "name": "loathsome909341",
+      "value": 0.11,
+      "prize": null
+    },
+    {
+      "position": 204,
+      "name": "Juliar7",
+      "value": 0.11,
+      "prize": null
+    },
+    {
+      "position": 205,
+      "name": "Chechoo",
+      "value": 0.1,
+      "prize": null
+    },
+    {
+      "position": 206,
+      "name": "flema",
+      "value": 0.1,
+      "prize": null
+    },
+    {
+      "position": 207,
+      "name": "Pracht",
+      "value": 0.1,
+      "prize": null
+    },
+    {
+      "position": 208,
+      "name": "Rojas785",
+      "value": 0.1,
+      "prize": null
+    },
+    {
+      "position": 209,
+      "name": "useless46742710",
+      "value": 0.09,
+      "prize": null
+    },
+    {
+      "position": 210,
+      "name": "edible438427334",
+      "value": 0.09,
+      "prize": null
+    },
+    {
+      "position": 211,
+      "name": "BELAQGC",
+      "value": 0.09,
+      "prize": null
+    },
+    {
+      "position": 212,
+      "name": "BryanMLagos10",
+      "value": 0.09,
+      "prize": null
+    },
+    {
+      "position": 213,
+      "name": "Mindtha",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 214,
+      "name": "direct035189866",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 215,
+      "name": "failing58156453",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 216,
+      "name": "AnkhHealer",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 217,
+      "name": "Chalaita",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 218,
+      "name": "Bozzex",
+      "value": 0.07,
+      "prize": null
+    },
+    {
+      "position": 219,
+      "name": "muffled72030872",
+      "value": 0.07,
+      "prize": null
+    },
+    {
+      "position": 220,
+      "name": "safe98770852855",
+      "value": 0.07,
+      "prize": null
+    },
+    {
+      "position": 221,
+      "name": "upset5251685089",
+      "value": 0.06,
+      "prize": null
+    },
+    {
+      "position": 222,
+      "name": "7Maio7",
+      "value": 0.05,
+      "prize": null
+    },
+    {
+      "position": 223,
+      "name": "maurol1996",
+      "value": 0.05,
+      "prize": null
+    },
+    {
+      "position": 224,
+      "name": "Skylane7",
+      "value": 0.05,
+      "prize": null
+    },
+    {
+      "position": 225,
+      "name": "IamDasH",
+      "value": 0.05,
+      "prize": null
+    },
+    {
+      "position": 226,
+      "name": "loud92608007762",
+      "value": 0.04,
+      "prize": null
+    },
+    {
+      "position": 227,
+      "name": "AmandiPK",
+      "value": 0.04,
+      "prize": null
+    },
+    {
+      "position": 228,
+      "name": "TigerOfSion",
+      "value": 0.04,
+      "prize": null
+    },
+    {
+      "position": 229,
+      "name": "happygolucky626",
+      "value": 0.04,
+      "prize": null
+    },
+    {
+      "position": 230,
+      "name": "Tamazar",
+      "value": 0.03,
+      "prize": null
+    },
+    {
+      "position": 231,
+      "name": "mad309324183323",
+      "value": 0.03,
+      "prize": null
+    },
+    {
+      "position": 232,
+      "name": "COCOLICHE",
+      "value": 0.03,
+      "prize": null
+    },
+    {
+      "position": 233,
+      "name": "Faantasmaaa",
+      "value": 0.03,
+      "prize": null
+    },
+    {
+      "position": 234,
+      "name": "CuervoDri",
+      "value": 0.03,
+      "prize": null
+    },
+    {
+      "position": 235,
+      "name": "positive1286104",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 236,
+      "name": "pleasant7068964",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 237,
+      "name": "lazy39933663955",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 238,
+      "name": "overcooked74214",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 239,
+      "name": "LEOURSINO",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 240,
+      "name": "cattak",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 241,
+      "name": "private86697917",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 242,
+      "name": "gargantuan30186",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 243,
+      "name": "disfigured35773",
+      "value": 0.02,
+      "prize": null
+    },
+    {
+      "position": 244,
+      "name": "triangular10137",
+      "value": 0.01,
+      "prize": null
+    },
+    {
+      "position": 245,
+      "name": "kindly408374242",
+      "value": 0.01,
+      "prize": null
+    },
+    {
+      "position": 246,
+      "name": "nasty9382595440",
+      "value": 0.01,
+      "prize": null
+    },
+    {
+      "position": 247,
+      "name": "willing36720433",
+      "value": 0.01,
+      "prize": null
+    },
+    {
+      "position": 248,
+      "name": "CVecy",
+      "value": 0.01,
+      "prize": null
+    }
+  ]
+}

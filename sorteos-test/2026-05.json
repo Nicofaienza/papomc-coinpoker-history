@@ -1,0 +1,1847 @@
+{
+  "month": "2026-05",
+  "drawn_at": "2026-05-22T18:26:02.451Z",
+  "csv_filename": "Rake Paid of Affiliates 21.05.2026.csv",
+  "total_players": 305,
+  "total_tickets": 44779,
+  "ticket": 13700,
+  "winner": {
+    "username": "Fraches",
+    "user_id": "1555157",
+    "raked_hands": 6455,
+    "chances": 6456,
+    "chance_pct": 14.417
+  },
+  "participants": [
+    {
+      "username": "Aldrish",
+      "user_id": "1554602",
+      "raked_hands": 9364,
+      "chances": 9365
+    },
+    {
+      "username": "Fraches",
+      "user_id": "1555157",
+      "raked_hands": 6455,
+      "chances": 6456
+    },
+    {
+      "username": "lopsided9657832",
+      "user_id": "1522827",
+      "raked_hands": 1194,
+      "chances": 1195
+    },
+    {
+      "username": "GreyGrey",
+      "user_id": "1572636",
+      "raked_hands": 4969,
+      "chances": 4970
+    },
+    {
+      "username": "Lochin",
+      "user_id": "1553983",
+      "raked_hands": 1809,
+      "chances": 1810
+    },
+    {
+      "username": "HappyEVMachine",
+      "user_id": "1605483",
+      "raked_hands": 1105,
+      "chances": 1106
+    },
+    {
+      "username": "Facupala94",
+      "user_id": "1565715",
+      "raked_hands": 3916,
+      "chances": 3917
+    },
+    {
+      "username": "ChasttyAR",
+      "user_id": "1567920",
+      "raked_hands": 437,
+      "chances": 438
+    },
+    {
+      "username": "Sebasvzla",
+      "user_id": "1520754",
+      "raked_hands": 312,
+      "chances": 313
+    },
+    {
+      "username": "Macoma",
+      "user_id": "1557288",
+      "raked_hands": 396,
+      "chances": 397
+    },
+    {
+      "username": "Nico007",
+      "user_id": "1595416",
+      "raked_hands": 1284,
+      "chances": 1285
+    },
+    {
+      "username": "TheProf4ssor",
+      "user_id": "1526992",
+      "raked_hands": 214,
+      "chances": 215
+    },
+    {
+      "username": "Dutt71",
+      "user_id": "1523863",
+      "raked_hands": 436,
+      "chances": 437
+    },
+    {
+      "username": "merca666",
+      "user_id": "1545837",
+      "raked_hands": 514,
+      "chances": 515
+    },
+    {
+      "username": "snoopdoggg",
+      "user_id": "1543784",
+      "raked_hands": 382,
+      "chances": 383
+    },
+    {
+      "username": "Lucas2001",
+      "user_id": "1542637",
+      "raked_hands": 296,
+      "chances": 297
+    },
+    {
+      "username": "dependent577311",
+      "user_id": "1525382",
+      "raked_hands": 291,
+      "chances": 292
+    },
+    {
+      "username": "Birreado",
+      "user_id": "1537188",
+      "raked_hands": 496,
+      "chances": 497
+    },
+    {
+      "username": "FishKingHere",
+      "user_id": "1541155",
+      "raked_hands": 303,
+      "chances": 304
+    },
+    {
+      "username": "Betoriver",
+      "user_id": "1597294",
+      "raked_hands": 556,
+      "chances": 557
+    },
+    {
+      "username": "sorrowful067317",
+      "user_id": "1524014",
+      "raked_hands": 161,
+      "chances": 162
+    },
+    {
+      "username": "marianolegui",
+      "user_id": "1583400",
+      "raked_hands": 194,
+      "chances": 195
+    },
+    {
+      "username": "bEhappy33",
+      "user_id": "1595447",
+      "raked_hands": 380,
+      "chances": 381
+    },
+    {
+      "username": "JustEnjoy",
+      "user_id": "1597407",
+      "raked_hands": 224,
+      "chances": 225
+    },
+    {
+      "username": "Venuss",
+      "user_id": "1597417",
+      "raked_hands": 85,
+      "chances": 86
+    },
+    {
+      "username": "agushin0",
+      "user_id": "1592283",
+      "raked_hands": 232,
+      "chances": 233
+    },
+    {
+      "username": "Santiago2424",
+      "user_id": "1520098",
+      "raked_hands": 274,
+      "chances": 275
+    },
+    {
+      "username": "VenMartin",
+      "user_id": "1598470",
+      "raked_hands": 447,
+      "chances": 448
+    },
+    {
+      "username": "Idea11",
+      "user_id": "1520730",
+      "raked_hands": 249,
+      "chances": 250
+    },
+    {
+      "username": "OneEyeJack",
+      "user_id": "1569795",
+      "raked_hands": 51,
+      "chances": 52
+    },
+    {
+      "username": "Seraker",
+      "user_id": "1603619",
+      "raked_hands": 83,
+      "chances": 84
+    },
+    {
+      "username": "CamBoix",
+      "user_id": "1600820",
+      "raked_hands": 172,
+      "chances": 173
+    },
+    {
+      "username": "ElTioDrill",
+      "user_id": "1581759",
+      "raked_hands": 283,
+      "chances": 284
+    },
+    {
+      "username": "Manucho1987",
+      "user_id": "1593475",
+      "raked_hands": 348,
+      "chances": 349
+    },
+    {
+      "username": "Cricadamo",
+      "user_id": "1605144",
+      "raked_hands": 83,
+      "chances": 84
+    },
+    {
+      "username": "Sebiche27",
+      "user_id": "1525222",
+      "raked_hands": 309,
+      "chances": 310
+    },
+    {
+      "username": "Curlymdp",
+      "user_id": "1537820",
+      "raked_hands": 81,
+      "chances": 82
+    },
+    {
+      "username": "Bushineitor",
+      "user_id": "1605655",
+      "raked_hands": 115,
+      "chances": 116
+    },
+    {
+      "username": "stunning0813711",
+      "user_id": "1558521",
+      "raked_hands": 202,
+      "chances": 203
+    },
+    {
+      "username": "overcooked41342",
+      "user_id": "1527482",
+      "raked_hands": 107,
+      "chances": 108
+    },
+    {
+      "username": "upset5251685089",
+      "user_id": "1549919",
+      "raked_hands": 31,
+      "chances": 32
+    },
+    {
+      "username": "Skullgreek",
+      "user_id": "1586253",
+      "raked_hands": 186,
+      "chances": 187
+    },
+    {
+      "username": "Joshua420",
+      "user_id": "1595217",
+      "raked_hands": 150,
+      "chances": 151
+    },
+    {
+      "username": "ElDon84",
+      "user_id": "1523596",
+      "raked_hands": 250,
+      "chances": 251
+    },
+    {
+      "username": "Exceptio",
+      "user_id": "1553336",
+      "raked_hands": 297,
+      "chances": 298
+    },
+    {
+      "username": "alemsd",
+      "user_id": "1563522",
+      "raked_hands": 62,
+      "chances": 63
+    },
+    {
+      "username": "Karma4Fenhao",
+      "user_id": "1600258",
+      "raked_hands": 195,
+      "chances": 196
+    },
+    {
+      "username": "Mindtha",
+      "user_id": "1522232",
+      "raked_hands": 71,
+      "chances": 72
+    },
+    {
+      "username": "educated8028464",
+      "user_id": "1526574",
+      "raked_hands": 222,
+      "chances": 223
+    },
+    {
+      "username": "sAi96",
+      "user_id": "1545786",
+      "raked_hands": 91,
+      "chances": 92
+    },
+    {
+      "username": "LmauricioA",
+      "user_id": "1527198",
+      "raked_hands": 85,
+      "chances": 86
+    },
+    {
+      "username": "EndxRCC",
+      "user_id": "1595849",
+      "raked_hands": 80,
+      "chances": 81
+    },
+    {
+      "username": "BAIUM",
+      "user_id": "1580432",
+      "raked_hands": 120,
+      "chances": 121
+    },
+    {
+      "username": "JohnBen19",
+      "user_id": "1536962",
+      "raked_hands": 69,
+      "chances": 70
+    },
+    {
+      "username": "Mathi91arg",
+      "user_id": "1555281",
+      "raked_hands": 73,
+      "chances": 74
+    },
+    {
+      "username": "bolsilludo10",
+      "user_id": "1581373",
+      "raked_hands": 111,
+      "chances": 112
+    },
+    {
+      "username": "HOMERO96",
+      "user_id": "1545897",
+      "raked_hands": 138,
+      "chances": 139
+    },
+    {
+      "username": "ziffer",
+      "user_id": "1592163",
+      "raked_hands": 100,
+      "chances": 101
+    },
+    {
+      "username": "elaborate047939",
+      "user_id": "1539445",
+      "raked_hands": 118,
+      "chances": 119
+    },
+    {
+      "username": "Trewtor",
+      "user_id": "1520829",
+      "raked_hands": 102,
+      "chances": 103
+    },
+    {
+      "username": "Dennisbolt",
+      "user_id": "1559989",
+      "raked_hands": 133,
+      "chances": 134
+    },
+    {
+      "username": "AMGDA",
+      "user_id": "1561642",
+      "raked_hands": 111,
+      "chances": 112
+    },
+    {
+      "username": "RAPM48",
+      "user_id": "1583385",
+      "raked_hands": 30,
+      "chances": 31
+    },
+    {
+      "username": "Bozzex",
+      "user_id": "1523424",
+      "raked_hands": 31,
+      "chances": 32
+    },
+    {
+      "username": "coconutAK",
+      "user_id": "1527010",
+      "raked_hands": 41,
+      "chances": 42
+    },
+    {
+      "username": "Pablo18",
+      "user_id": "1581622",
+      "raked_hands": 57,
+      "chances": 58
+    },
+    {
+      "username": "Byakugan1937",
+      "user_id": "1547412",
+      "raked_hands": 34,
+      "chances": 35
+    },
+    {
+      "username": "elYoka",
+      "user_id": "1568421",
+      "raked_hands": 92,
+      "chances": 93
+    },
+    {
+      "username": "Fuegian",
+      "user_id": "1603848",
+      "raked_hands": 55,
+      "chances": 56
+    },
+    {
+      "username": "Calde22",
+      "user_id": "1559815",
+      "raked_hands": 62,
+      "chances": 63
+    },
+    {
+      "username": "Turrer98",
+      "user_id": "1597374",
+      "raked_hands": 81,
+      "chances": 82
+    },
+    {
+      "username": "Kyxpa14",
+      "user_id": "1535855",
+      "raked_hands": 110,
+      "chances": 111
+    },
+    {
+      "username": "1nid1",
+      "user_id": "1595385",
+      "raked_hands": 35,
+      "chances": 36
+    },
+    {
+      "username": "Mattorra",
+      "user_id": "1604131",
+      "raked_hands": 13,
+      "chances": 14
+    },
+    {
+      "username": "nbmostro",
+      "user_id": "1551026",
+      "raked_hands": 64,
+      "chances": 65
+    },
+    {
+      "username": "Feli24",
+      "user_id": "1549210",
+      "raked_hands": 91,
+      "chances": 92
+    },
+    {
+      "username": "ParamoreVI",
+      "user_id": "1542565",
+      "raked_hands": 64,
+      "chances": 65
+    },
+    {
+      "username": "blueMagik",
+      "user_id": "1557249",
+      "raked_hands": 80,
+      "chances": 81
+    },
+    {
+      "username": "D10sDiego",
+      "user_id": "1600023",
+      "raked_hands": 57,
+      "chances": 58
+    },
+    {
+      "username": "Maxrite",
+      "user_id": "1535881",
+      "raked_hands": 20,
+      "chances": 21
+    },
+    {
+      "username": "PabloJovik",
+      "user_id": "1537325",
+      "raked_hands": 50,
+      "chances": 51
+    },
+    {
+      "username": "SebazR10",
+      "user_id": "1553374",
+      "raked_hands": 25,
+      "chances": 26
+    },
+    {
+      "username": "wildegoat",
+      "user_id": "1527830",
+      "raked_hands": 30,
+      "chances": 31
+    },
+    {
+      "username": "Isohunt",
+      "user_id": "1589932",
+      "raked_hands": 36,
+      "chances": 37
+    },
+    {
+      "username": "PapoMC",
+      "user_id": "732338",
+      "raked_hands": 92,
+      "chances": 93
+    },
+    {
+      "username": "long19862936998",
+      "user_id": "1525271",
+      "raked_hands": 16,
+      "chances": 17
+    },
+    {
+      "username": "Luquerets777",
+      "user_id": "1549386",
+      "raked_hands": 19,
+      "chances": 20
+    },
+    {
+      "username": "Tiagocalvi23",
+      "user_id": "1580625",
+      "raked_hands": 67,
+      "chances": 68
+    },
+    {
+      "username": "Ases1891",
+      "user_id": "1523743",
+      "raked_hands": 13,
+      "chances": 14
+    },
+    {
+      "username": "Bapokerking14",
+      "user_id": "1563133",
+      "raked_hands": 22,
+      "chances": 23
+    },
+    {
+      "username": "DonVitto666",
+      "user_id": "1562727",
+      "raked_hands": 75,
+      "chances": 76
+    },
+    {
+      "username": "Freedom77",
+      "user_id": "1602246",
+      "raked_hands": 42,
+      "chances": 43
+    },
+    {
+      "username": "HIxNS",
+      "user_id": "1597194",
+      "raked_hands": 13,
+      "chances": 14
+    },
+    {
+      "username": "Fokumero",
+      "user_id": "1542687",
+      "raked_hands": 31,
+      "chances": 32
+    },
+    {
+      "username": "lima69",
+      "user_id": "1524968",
+      "raked_hands": 29,
+      "chances": 30
+    },
+    {
+      "username": "Bluffcacher",
+      "user_id": "1567807",
+      "raked_hands": 78,
+      "chances": 79
+    },
+    {
+      "username": "GuatonChanta",
+      "user_id": "1608774",
+      "raked_hands": 53,
+      "chances": 54
+    },
+    {
+      "username": "SebAsdepicas",
+      "user_id": "1602665",
+      "raked_hands": 34,
+      "chances": 35
+    },
+    {
+      "username": "LuisNeo",
+      "user_id": "1522382",
+      "raked_hands": 8,
+      "chances": 9
+    },
+    {
+      "username": "PBlivin",
+      "user_id": "1529958",
+      "raked_hands": 62,
+      "chances": 63
+    },
+    {
+      "username": "Those007",
+      "user_id": "1547903",
+      "raked_hands": 64,
+      "chances": 65
+    },
+    {
+      "username": "Carmelo105",
+      "user_id": "1605901",
+      "raked_hands": 26,
+      "chances": 27
+    },
+    {
+      "username": "GARROTE",
+      "user_id": "1556917",
+      "raked_hands": 32,
+      "chances": 33
+    },
+    {
+      "username": "TuTens",
+      "user_id": "1550729",
+      "raked_hands": 37,
+      "chances": 38
+    },
+    {
+      "username": "lilConci",
+      "user_id": "1581883",
+      "raked_hands": 27,
+      "chances": 28
+    },
+    {
+      "username": "WwxMxwW",
+      "user_id": "1527117",
+      "raked_hands": 37,
+      "chances": 38
+    },
+    {
+      "username": "IndiaMila7",
+      "user_id": "1592398",
+      "raked_hands": 7,
+      "chances": 8
+    },
+    {
+      "username": "variable6962863",
+      "user_id": "1522734",
+      "raked_hands": 8,
+      "chances": 9
+    },
+    {
+      "username": "COQUESA007",
+      "user_id": "1549773",
+      "raked_hands": 41,
+      "chances": 42
+    },
+    {
+      "username": "LithuanKid",
+      "user_id": "1522510",
+      "raked_hands": 27,
+      "chances": 28
+    },
+    {
+      "username": "cattak",
+      "user_id": "1604209",
+      "raked_hands": 23,
+      "chances": 24
+    },
+    {
+      "username": "frosty070825604",
+      "user_id": "1551120",
+      "raked_hands": 34,
+      "chances": 35
+    },
+    {
+      "username": "BlazeAS",
+      "user_id": "1606048",
+      "raked_hands": 25,
+      "chances": 26
+    },
+    {
+      "username": "CasteGaston",
+      "user_id": "1592005",
+      "raked_hands": 45,
+      "chances": 46
+    },
+    {
+      "username": "Kaall",
+      "user_id": "1605964",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "Maxyto",
+      "user_id": "1520598",
+      "raked_hands": 53,
+      "chances": 54
+    },
+    {
+      "username": "hospitable96329",
+      "user_id": "1584950",
+      "raked_hands": 39,
+      "chances": 40
+    },
+    {
+      "username": "xXb3nj4Xx",
+      "user_id": "1583999",
+      "raked_hands": 18,
+      "chances": 19
+    },
+    {
+      "username": "waskandconch",
+      "user_id": "1601525",
+      "raked_hands": 14,
+      "chances": 15
+    },
+    {
+      "username": "Nicox3111",
+      "user_id": "1548119",
+      "raked_hands": 34,
+      "chances": 35
+    },
+    {
+      "username": "Tintinelo",
+      "user_id": "1527723",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "corny6615040678",
+      "user_id": "1525248",
+      "raked_hands": 17,
+      "chances": 18
+    },
+    {
+      "username": "NUNCABLUFF",
+      "user_id": "1520100",
+      "raked_hands": 9,
+      "chances": 10
+    },
+    {
+      "username": "kindly408374242",
+      "user_id": "1523562",
+      "raked_hands": 7,
+      "chances": 8
+    },
+    {
+      "username": "YeiYei",
+      "user_id": "1531903",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "BAUTIMC",
+      "user_id": "1542705",
+      "raked_hands": 14,
+      "chances": 15
+    },
+    {
+      "username": "LEOURSINO",
+      "user_id": "1581529",
+      "raked_hands": 14,
+      "chances": 15
+    },
+    {
+      "username": "Kdpps",
+      "user_id": "1521127",
+      "raked_hands": 10,
+      "chances": 11
+    },
+    {
+      "username": "giving278037475",
+      "user_id": "1547658",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "frankitto",
+      "user_id": "1595304",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "muddy9837145587",
+      "user_id": "1528943",
+      "raked_hands": 15,
+      "chances": 16
+    },
+    {
+      "username": "attentive068747",
+      "user_id": "1576961",
+      "raked_hands": 10,
+      "chances": 11
+    },
+    {
+      "username": "AlvarezJJ",
+      "user_id": "1595446",
+      "raked_hands": 9,
+      "chances": 10
+    },
+    {
+      "username": "isfoldandcall",
+      "user_id": "1556716",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "chizo12",
+      "user_id": "1572327",
+      "raked_hands": 15,
+      "chances": 16
+    },
+    {
+      "username": "Kingston98",
+      "user_id": "1580765",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Geancitoo19",
+      "user_id": "1595219",
+      "raked_hands": 15,
+      "chances": 16
+    },
+    {
+      "username": "pipokir",
+      "user_id": "1520937",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "Juanchipalombo",
+      "user_id": "1539263",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "argDeMoNKinG",
+      "user_id": "1553812",
+      "raked_hands": 20,
+      "chances": 21
+    },
+    {
+      "username": "Ache23",
+      "user_id": "1595459",
+      "raked_hands": 10,
+      "chances": 11
+    },
+    {
+      "username": "ditadax",
+      "user_id": "1522231",
+      "raked_hands": 13,
+      "chances": 14
+    },
+    {
+      "username": "AdgSpMdp",
+      "user_id": "1550825",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "bad175838900163",
+      "user_id": "1544135",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "DAAMMMMMM",
+      "user_id": "1539016",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "Chechoo",
+      "user_id": "1565534",
+      "raked_hands": 13,
+      "chances": 14
+    },
+    {
+      "username": "SANGUCHE32",
+      "user_id": "1603677",
+      "raked_hands": 18,
+      "chances": 19
+    },
+    {
+      "username": "Ivokore",
+      "user_id": "1523719",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "naive2916633842",
+      "user_id": "1554153",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "FruliMen",
+      "user_id": "1525622",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "BogSu",
+      "user_id": "1610671",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "chizon",
+      "user_id": "1536758",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "lapesadilla",
+      "user_id": "1525572",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "CarlosLozada",
+      "user_id": "1581880",
+      "raked_hands": 11,
+      "chances": 12
+    },
+    {
+      "username": "slippery2575449",
+      "user_id": "1537711",
+      "raked_hands": 12,
+      "chances": 13
+    },
+    {
+      "username": "Syonek",
+      "user_id": "1605888",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "aspero158",
+      "user_id": "1561602",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "Kronox",
+      "user_id": "1593007",
+      "raked_hands": 7,
+      "chances": 8
+    },
+    {
+      "username": "LucioTinni",
+      "user_id": "1535769",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "panchito007",
+      "user_id": "1535810",
+      "raked_hands": 8,
+      "chances": 9
+    },
+    {
+      "username": "tonguitacoxxx",
+      "user_id": "1580542",
+      "raked_hands": 5,
+      "chances": 6
+    },
+    {
+      "username": "Axeel97",
+      "user_id": "1520048",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "definitive36351",
+      "user_id": "1536068",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "Mentrilopo99",
+      "user_id": "1597299",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "Rusov259",
+      "user_id": "1525170",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "SirAlfred97",
+      "user_id": "1592383",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "Juliar7",
+      "user_id": "1524141",
+      "raked_hands": 6,
+      "chances": 7
+    },
+    {
+      "username": "LucStare",
+      "user_id": "1592579",
+      "raked_hands": 8,
+      "chances": 9
+    },
+    {
+      "username": "straight2546597",
+      "user_id": "1528339",
+      "raked_hands": 7,
+      "chances": 8
+    },
+    {
+      "username": "Aerens",
+      "user_id": "1536138",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Jerocn1017",
+      "user_id": "1535850",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "Yoaki2",
+      "user_id": "1591825",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "TigerOfSion",
+      "user_id": "1580579",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "creepy298707939",
+      "user_id": "1520656",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "Aveto",
+      "user_id": "1580626",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "jealous34280478",
+      "user_id": "1560424",
+      "raked_hands": 4,
+      "chances": 5
+    },
+    {
+      "username": "Choniih",
+      "user_id": "1522597",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "H3roCall",
+      "user_id": "1525119",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "Tom1SSJ",
+      "user_id": "1552518",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "BADJ0K3Ras",
+      "user_id": "1523526",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "Mart1noli",
+      "user_id": "1592440",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "maurol1996",
+      "user_id": "1539198",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "SatoshiJoker7",
+      "user_id": "1606377",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "Tomspz",
+      "user_id": "1583360",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "VELEZYVINO",
+      "user_id": "1536119",
+      "raked_hands": 3,
+      "chances": 4
+    },
+    {
+      "username": "LabestiaCarlito",
+      "user_id": "1576697",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "starmine",
+      "user_id": "1551087",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "DanielLaborde",
+      "user_id": "1523716",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "FullRange",
+      "user_id": "1539270",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "GGGivenchy",
+      "user_id": "1595389",
+      "raked_hands": 2,
+      "chances": 3
+    },
+    {
+      "username": "dull86718095582",
+      "user_id": "1528737",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "IhateGG",
+      "user_id": "1604979",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "Tuty85",
+      "user_id": "1587248",
+      "raked_hands": 1,
+      "chances": 2
+    },
+    {
+      "username": "7Maio7",
+      "user_id": "1519231",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "afraid216326468",
+      "user_id": "1522759",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "AgusFiol",
+      "user_id": "1554340",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "AlmanD10s",
+      "user_id": "1528483",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "animated1233888",
+      "user_id": "1536131",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "babyuzi",
+      "user_id": "1553063",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "barrionuevob",
+      "user_id": "1523651",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Beliz04",
+      "user_id": "1583745",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "BrolySant",
+      "user_id": "1584259",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Calitoxx",
+      "user_id": "1559724",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "CamiloSF23",
+      "user_id": "1549304",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Catiels",
+      "user_id": "1561120",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Chance1532",
+      "user_id": "1527035",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "charlie1359",
+      "user_id": "1568315",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "CHUPETE",
+      "user_id": "1547639",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "COCOLICHE",
+      "user_id": "1571146",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Colobolso11",
+      "user_id": "1558265",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "cooperadoras",
+      "user_id": "1605921",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Cucaa",
+      "user_id": "1556392",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "cultured9580829",
+      "user_id": "1555506",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "dAKface",
+      "user_id": "1577420",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "DamKevlar",
+      "user_id": "1519459",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "dark51061858022",
+      "user_id": "1545764",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "direct035189866",
+      "user_id": "1535908",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "DobleL",
+      "user_id": "1522219",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "ElMorla912",
+      "user_id": "1583388",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Elocopoker",
+      "user_id": "1603444",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Elurraco",
+      "user_id": "1522833",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Enzo136",
+      "user_id": "1549004",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "ESHV2503",
+      "user_id": "1610119",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "failing58156453",
+      "user_id": "1555395",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "FaqMz",
+      "user_id": "1598938",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "fedehomsi11",
+      "user_id": "1522454",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Feit4n",
+      "user_id": "1536133",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "FerAlvarez",
+      "user_id": "1597761",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Ferchoh",
+      "user_id": "1527547",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "fhakyr",
+      "user_id": "1604089",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "FranklinGood",
+      "user_id": "1570212",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "GianfrancPok",
+      "user_id": "1525344",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Goudro",
+      "user_id": "1542819",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Gustin",
+      "user_id": "1549319",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Hubscher",
+      "user_id": "1536242",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "idolized7816015",
+      "user_id": "1541104",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "impure811088116",
+      "user_id": "1542649",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "insistent116584",
+      "user_id": "1528654",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Japigod",
+      "user_id": "1524867",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Jeremias68",
+      "user_id": "1557966",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "JesusSiben29",
+      "user_id": "1580628",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "JuanitoLee96",
+      "user_id": "1523362",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "juantavarez",
+      "user_id": "1548078",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "KAis3r",
+      "user_id": "1540556",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Kak00",
+      "user_id": "1560168",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "KeO420",
+      "user_id": "1573603",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "killbest",
+      "user_id": "1553771",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "KnevelGG",
+      "user_id": "1520946",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "known1331094673",
+      "user_id": "1527250",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "KrypTa",
+      "user_id": "1536153",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "lazy89334659279",
+      "user_id": "1603907",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "leonarod91",
+      "user_id": "1536178",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Leoz1l",
+      "user_id": "1593967",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "limpWithAces",
+      "user_id": "1544636",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "LiquidRange",
+      "user_id": "1537296",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Lucasflores",
+      "user_id": "1528250",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "M000222",
+      "user_id": "1584486",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "maldee",
+      "user_id": "1553942",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "MartinAR",
+      "user_id": "1536593",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "MateoR",
+      "user_id": "1524591",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Mati1999",
+      "user_id": "1536726",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "MaxiGriva25",
+      "user_id": "1558997",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Maxiimooo",
+      "user_id": "1593601",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Maxix",
+      "user_id": "1555318",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "mellow309165248",
+      "user_id": "1558185",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "metallic0858922",
+      "user_id": "1597287",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "montoneta",
+      "user_id": "1573329",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Morcillablufera",
+      "user_id": "1580839",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "nachopker",
+      "user_id": "1562459",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "NaicoRC",
+      "user_id": "1525285",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Nanoossj",
+      "user_id": "1522447",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "NAVEAZINHO14",
+      "user_id": "1554134",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "nicomed89",
+      "user_id": "1557019",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "obese7408964459",
+      "user_id": "1525244",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "periodic6926030",
+      "user_id": "1555255",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "PietroFZA",
+      "user_id": "1536121",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "positive9081175",
+      "user_id": "1547934",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "private77961428",
+      "user_id": "1519999",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Quirogaf",
+      "user_id": "1609144",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "rageraising",
+      "user_id": "1527206",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "RamiroMoreno",
+      "user_id": "1595466",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Rober14",
+      "user_id": "1606131",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "safe98770852855",
+      "user_id": "1550630",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Sebaz10",
+      "user_id": "1560088",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "SeniorT",
+      "user_id": "1581444",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "ShowAstro",
+      "user_id": "1573765",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Sisombo",
+      "user_id": "1539644",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Skylane7",
+      "user_id": "1594947",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "SukhaShipp",
+      "user_id": "1546121",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Suppaelo",
+      "user_id": "1539598",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Taieel",
+      "user_id": "1557114",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Tapo87",
+      "user_id": "1580649",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "TarkPR",
+      "user_id": "1602520",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Timb3roAR",
+      "user_id": "1583368",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "TTNacho",
+      "user_id": "1561454",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "unwitting271834",
+      "user_id": "1555558",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "VikazZz",
+      "user_id": "1602655",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "VikingorE",
+      "user_id": "1580254",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "ViLu1922",
+      "user_id": "1549775",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "warlike48845779",
+      "user_id": "1551347",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "WhoPayIsG4y",
+      "user_id": "1581708",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "woozy2828959484",
+      "user_id": "1546421",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "xZyrius",
+      "user_id": "1536567",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "zfabro",
+      "user_id": "1539036",
+      "raked_hands": 0,
+      "chances": 1
+    },
+    {
+      "username": "Zurdo13Chaca",
+      "user_id": "1584998",
+      "raked_hands": 0,
+      "chances": 1
+    }
+  ]
+}

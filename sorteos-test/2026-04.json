@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "drawn_at": "2026-05-26T15:07:07.617Z",
+  "drawn_at": "2026-05-26T15:28:00.015Z",
   "csv_filename": "Rake Paid of Affiliates 21.05.2026.csv",
   "total_players": 305,
   "total_tickets": 44779,
-  "ticket": 6116,
+  "ticket": 27869,
   "winner": {
-    "username": "Aldrish",
-    "user_id": "1554602",
-    "raked_hands": 9364,
-    "chances": 9365,
-    "chance_pct": 20.914
+    "username": "Facupala94",
+    "user_id": "1565715",
+    "raked_hands": 3916,
+    "chances": 3917,
+    "chance_pct": 8.747
   },
   "participants": [
     {

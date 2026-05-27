@@ -1,18 +1,26 @@
 {
   "month": "2026-04",
-  "drawn_at": "2026-05-27T17:35:51.419Z",
+  "drawn_at": "2026-05-27T17:37:08.553Z",
   "csv_filename": "Rake Paid of Affiliates 21.05.2026.csv",
   "total_players": 305,
   "total_tickets": 44779,
-  "ticket": 20469,
+  "ticket": 11211,
   "winner": {
-    "username": "GreyGrey",
-    "user_id": "1572636",
-    "raked_hands": 4969,
-    "chances": 4970,
-    "chance_pct": 11.099
+    "username": "Fraches",
+    "user_id": "1555157",
+    "raked_hands": 6455,
+    "chances": 6456,
+    "chance_pct": 14.417
   },
-  "mesa_winner": null,
+  "mesa_winner": {
+    "username": "Macoma",
+    "user_id": "1557288",
+    "raked_hands": 396,
+    "chances": 397,
+    "chance_pct": 1.383,
+    "ticket": 13801,
+    "total_tickets": 28707
+  },
   "participants": [
     {
       "username": "Aldrish",

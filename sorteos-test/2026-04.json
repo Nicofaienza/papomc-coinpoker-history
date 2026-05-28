@@ -1,26 +1,18 @@
 {
   "month": "2026-04",
-  "drawn_at": "2026-05-28T20:32:37.153Z",
+  "drawn_at": "2026-05-28T20:33:43.002Z",
   "csv_filename": "Rake Paid of Affiliates 21.05.2026.csv",
   "total_players": 305,
   "total_tickets": 305,
-  "ticket": 0,
+  "ticket": 262,
   "winner": {
-    "username": "Aldrish",
-    "user_id": "1554602",
-    "raked_hands": 9364,
+    "username": "Maxiimooo",
+    "user_id": "1593601",
+    "raked_hands": 0,
     "chances": 1,
     "chance_pct": 0.328
   },
-  "mesa_winner": {
-    "username": "VELEZYVINO",
-    "user_id": "1536119",
-    "raked_hands": 3,
-    "chances": 1,
-    "chance_pct": 0.331,
-    "ticket": 181,
-    "total_tickets": 302
-  },
+  "mesa_winner": null,
   "participants": [
     {
       "username": "Aldrish",

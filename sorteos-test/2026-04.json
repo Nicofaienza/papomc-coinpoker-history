@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "drawn_at": "2026-05-28T20:33:43.002Z",
+  "drawn_at": "2026-05-28T20:40:37.788Z",
   "csv_filename": "Rake Paid of Affiliates 21.05.2026.csv",
   "total_players": 305,
   "total_tickets": 305,
-  "ticket": 262,
+  "ticket": 144,
   "winner": {
-    "username": "Maxiimooo",
-    "user_id": "1593601",
-    "raked_hands": 0,
+    "username": "DAAMMMMMM",
+    "user_id": "1539016",
+    "raked_hands": 12,
     "chances": 1,
     "chance_pct": 0.328
   },

@@ -2,7 +2,7 @@
   "snap_date": "2026-06-04",
   "period": "June 2026",
   "type": "twitch",
-  "taken_at": "2026-06-04T04:04:38Z",
+  "taken_at": "2026-06-04T05:17:13Z",
   "slot_label": "04h UTC",
   "players": [
     {
@@ -19,91 +19,91 @@
     },
     {
       "position": 3,
-      "name": "xavierarges",
+      "name": "sebazr10",
       "value": 550,
       "prize": "$450"
     },
     {
       "position": 4,
-      "name": "waskandconch1337",
+      "name": "nikitocs_",
       "value": 550,
       "prize": "$320"
     },
     {
       "position": 5,
-      "name": "vecillas",
+      "name": "assafking",
       "value": 550,
       "prize": "$260"
     },
     {
       "position": 6,
-      "name": "sebazr10",
+      "name": "waskandconch1337",
       "value": 550,
       "prize": "$220"
     },
     {
       "position": 7,
-      "name": "nikitocs_",
+      "name": "vecillas",
       "value": 550,
       "prize": "$190"
     },
     {
       "position": 8,
-      "name": "kastor31",
+      "name": "xavierarges",
       "value": 550,
       "prize": "$170"
     },
     {
       "position": 9,
-      "name": "assafking",
+      "name": "kastor31",
       "value": 550,
       "prize": "$155"
     },
     {
       "position": 10,
-      "name": "zfabro",
+      "name": "gonzaletooo",
       "value": 542,
       "prize": "$145"
     },
     {
       "position": 11,
-      "name": "gonzaletooo",
+      "name": "zfabro",
       "value": 542,
       "prize": "$135"
     },
     {
       "position": 12,
-      "name": "znickos",
+      "name": "elrol0",
       "value": 540,
       "prize": "$125"
     },
     {
       "position": 13,
-      "name": "rickdev1",
+      "name": "znickos",
       "value": 540,
       "prize": "$120"
     },
     {
       "position": 14,
-      "name": "niconqn",
+      "name": "dr3k0r",
       "value": 540,
       "prize": "$115"
     },
     {
       "position": 15,
-      "name": "frannckdb",
+      "name": "niconqn",
       "value": 540,
       "prize": "$105"
     },
     {
       "position": 16,
-      "name": "elrol0",
+      "name": "frannckdb",
       "value": 540,
       "prize": null
     },
     {
       "position": 17,
-      "name": "dr3k0r",
+      "name": "rickdev1",
       "value": 540,
       "prize": null
     },
@@ -121,37 +121,37 @@
     },
     {
       "position": 20,
-      "name": "wildegou",
-      "value": 530,
-      "prize": null
-    },
-    {
-      "position": 21,
-      "name": "namorr7",
-      "value": 530,
-      "prize": null
-    },
-    {
-      "position": 22,
       "name": "maurogiuliodori",
       "value": 530,
       "prize": null
     },
     {
-      "position": 23,
+      "position": 21,
+      "name": "wildegou",
+      "value": 530,
+      "prize": null
+    },
+    {
+      "position": 22,
       "name": "juliansete",
       "value": 530,
       "prize": null
     },
     {
+      "position": 23,
+      "name": "namorr7",
+      "value": 530,
+      "prize": null
+    },
+    {
       "position": 24,
-      "name": "ginofrancische1",
+      "name": "eliandrowwww",
       "value": 530,
       "prize": null
     },
     {
       "position": 25,
-      "name": "eliandrowwww",
+      "name": "ginofrancische1",
       "value": 530,
       "prize": null
     },

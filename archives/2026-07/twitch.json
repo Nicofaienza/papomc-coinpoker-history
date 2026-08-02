@@ -5,5 +5,6 @@
   "archived_at": "2026-08-01T03:04:04Z",
   "corrected_at": "2026-08-02T20:00:00Z",
   "correction_note": "En julio no hubo streams, asi que no hubo ranking de Twitch. El archivo original era una copia del de junio. Los asientos de Twitch en la mesa final quedan vacios hasta que se defina quien juega.",
+  "empty_reason": "En julio no hubo streams, así que no se disputó el ranking de Twitch. Los dos asientos de la Mesa Final quedan a definir.",
   "top": []
 }

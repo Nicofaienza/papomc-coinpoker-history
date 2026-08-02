@@ -3,95 +3,97 @@
   "period_key": "2026-07",
   "type": "rake",
   "archived_at": "2026-08-01T03:04:04Z",
+  "corrected_at": "2026-08-02T20:00:00Z",
+  "correction_note": "Recalculado desde el reporte de afiliados. El archivo original se genero con la columna \"Poker Rake Back\", que CoinPoker dejo de poblar; la metrica correcta es el rake generado (Tournament Rake + Poker Cash Rake).",
   "top": [
     {
       "position": 1,
-      "name": "definitive36351",
-      "value": 39.2,
+      "name": "sardonic8037135",
+      "value": 2517.15,
       "prize": "$890"
     },
     {
       "position": 2,
-      "name": "papittosi",
-      "value": 14.78,
+      "name": "RezaMalenaReza",
+      "value": 1538,
       "prize": "$600"
     },
     {
       "position": 3,
-      "name": "pagoyllevo",
-      "value": 9.92,
+      "name": "stylish84028418",
+      "value": 1435.02,
       "prize": "$450"
     },
     {
       "position": 4,
-      "name": "RezaMalenaReza",
-      "value": 6.84,
+      "name": "waterlogged2976",
+      "value": 1417.25,
       "prize": "$320"
     },
     {
       "position": 5,
-      "name": "stylish84028418",
-      "value": 5.62,
+      "name": "Comechingones",
+      "value": 1376.11,
       "prize": "$260"
     },
     {
       "position": 6,
-      "name": "rageraising",
-      "value": 5.22,
+      "name": "JaviiNi",
+      "value": 1008.35,
       "prize": "$220"
     },
     {
       "position": 7,
-      "name": "FaqMz",
-      "value": 4.22,
+      "name": "definitive36351",
+      "value": 951.87,
       "prize": "$190"
     },
     {
       "position": 8,
-      "name": "lonely545118475",
-      "value": 3.27,
+      "name": "pagoyllevo",
+      "value": 820.19,
       "prize": "$170"
     },
     {
       "position": 9,
-      "name": "GastoNNatural",
-      "value": 2.83,
+      "name": "hearty283881128",
+      "value": 743.29,
       "prize": "$155"
     },
     {
       "position": 10,
-      "name": "Aldrish",
-      "value": 2.7,
+      "name": "GoldenKCM",
+      "value": 717.11,
       "prize": "$145"
     },
     {
       "position": 11,
-      "name": "Fraches",
-      "value": 2.49,
+      "name": "Coin4me",
+      "value": 435.18,
       "prize": "$135"
     },
     {
       "position": 12,
-      "name": "SebAsdepicas",
-      "value": 2.32,
+      "name": "FaqMz",
+      "value": 359.73,
       "prize": "$125"
     },
     {
       "position": 13,
-      "name": "Coin4me",
-      "value": 1.72,
+      "name": "rageraising",
+      "value": 357.34,
       "prize": "$120"
     },
     {
       "position": 14,
-      "name": "Cucaa",
-      "value": 1.7,
+      "name": "lonely545118475",
+      "value": 354.69,
       "prize": "$115"
     },
     {
       "position": 15,
-      "name": "enlightened0700",
-      "value": 1.61,
+      "name": "artistic6104499",
+      "value": 352.27,
       "prize": "$105"
     }
   ]

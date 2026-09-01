@@ -1,0 +1,98 @@
+{
+  "period": "August 2026",
+  "period_key": "2026-08",
+  "type": "twitch",
+  "archived_at": "2026-09-01T03:03:13Z",
+  "top": [
+    {
+      "position": 1,
+      "name": "wildegou",
+      "value": 4130.0,
+      "prize": "$890"
+    },
+    {
+      "position": 2,
+      "name": "waskandconch1337",
+      "value": 4130.0,
+      "prize": "$600"
+    },
+    {
+      "position": 3,
+      "name": "xavierarges",
+      "value": 4130.0,
+      "prize": "$450"
+    },
+    {
+      "position": 4,
+      "name": "kastor31",
+      "value": 4130.0,
+      "prize": "$320"
+    },
+    {
+      "position": 5,
+      "name": "nikitocs_",
+      "value": 4110.0,
+      "prize": "$260"
+    },
+    {
+      "position": 6,
+      "name": "sofivenaa",
+      "value": 4110.0,
+      "prize": "$220"
+    },
+    {
+      "position": 7,
+      "name": "assafking",
+      "value": 4100.0,
+      "prize": "$190"
+    },
+    {
+      "position": 8,
+      "name": "sebazr10",
+      "value": 4090.0,
+      "prize": "$170"
+    },
+    {
+      "position": 9,
+      "name": "gastongranola",
+      "value": 4090.0,
+      "prize": "$155"
+    },
+    {
+      "position": 10,
+      "name": "zfabro",
+      "value": 4090.0,
+      "prize": "$145"
+    },
+    {
+      "position": 11,
+      "name": "maximiliann2",
+      "value": 4060.0,
+      "prize": "$135"
+    },
+    {
+      "position": 12,
+      "name": "dr3k0r",
+      "value": 4040.0,
+      "prize": "$125"
+    },
+    {
+      "position": 13,
+      "name": "luxiopopa",
+      "value": 4040.0,
+      "prize": "$120"
+    },
+    {
+      "position": 14,
+      "name": "frannckdb",
+      "value": 4010.0,
+      "prize": "$115"
+    },
+    {
+      "position": 15,
+      "name": "martinpietroo",
+      "value": 3995.0,
+      "prize": "$105"
+    }
+  ]
+}

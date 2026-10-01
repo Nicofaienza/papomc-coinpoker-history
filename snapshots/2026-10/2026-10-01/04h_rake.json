@@ -1,0 +1,177 @@
+{
+  "snap_date": "2026-10-01",
+  "period": "October 2026",
+  "type": "rake",
+  "taken_at": "2026-10-01T04:02:44Z",
+  "slot_label": "04h UTC",
+  "players": [
+    {
+      "position": 1,
+      "name": "JIVIDELA",
+      "value": 26.16,
+      "prize": "$890"
+    },
+    {
+      "position": 2,
+      "name": "funny2145531234",
+      "value": 23.72,
+      "prize": "$600"
+    },
+    {
+      "position": 3,
+      "name": "JaviiNi",
+      "value": 10.34,
+      "prize": "$450"
+    },
+    {
+      "position": 4,
+      "name": "vengeful7301818",
+      "value": 5.11,
+      "prize": "$320"
+    },
+    {
+      "position": 5,
+      "name": "DiegoGarcia",
+      "value": 3.0,
+      "prize": "$260"
+    },
+    {
+      "position": 6,
+      "name": "adorable2157936",
+      "value": 1.5,
+      "prize": "$220"
+    },
+    {
+      "position": 7,
+      "name": "hot465731063240",
+      "value": 1.43,
+      "prize": "$190"
+    },
+    {
+      "position": 8,
+      "name": "argento1010",
+      "value": 1.42,
+      "prize": "$170"
+    },
+    {
+      "position": 9,
+      "name": "RickoH",
+      "value": 1.08,
+      "prize": "$155"
+    },
+    {
+      "position": 10,
+      "name": "Velazquez",
+      "value": 1.05,
+      "prize": "$145"
+    },
+    {
+      "position": 11,
+      "name": "shocked36741765",
+      "value": 0.71,
+      "prize": "$135"
+    },
+    {
+      "position": 12,
+      "name": "smooth526530354",
+      "value": 0.69,
+      "prize": "$125"
+    },
+    {
+      "position": 13,
+      "name": "hollow565809724",
+      "value": 0.54,
+      "prize": "$120"
+    },
+    {
+      "position": 14,
+      "name": "xkalchas",
+      "value": 0.51,
+      "prize": "$115"
+    },
+    {
+      "position": 15,
+      "name": "rusty4170522523",
+      "value": 0.36,
+      "prize": "$105"
+    },
+    {
+      "position": 16,
+      "name": "chiquitapia",
+      "value": 0.35,
+      "prize": null
+    },
+    {
+      "position": 17,
+      "name": "Alancito",
+      "value": 0.34,
+      "prize": null
+    },
+    {
+      "position": 18,
+      "name": "obese7408964459",
+      "value": 0.33,
+      "prize": null
+    },
+    {
+      "position": 19,
+      "name": "GEOcNarg",
+      "value": 0.27,
+      "prize": null
+    },
+    {
+      "position": 20,
+      "name": "tough2213995081",
+      "value": 0.27,
+      "prize": null
+    },
+    {
+      "position": 21,
+      "name": "lasting95332153",
+      "value": 0.27,
+      "prize": null
+    },
+    {
+      "position": 22,
+      "name": "Joel2010",
+      "value": 0.2,
+      "prize": null
+    },
+    {
+      "position": 23,
+      "name": "any874334396650",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 24,
+      "name": "Kratosfra",
+      "value": 0.14,
+      "prize": null
+    },
+    {
+      "position": 25,
+      "name": "EzC19",
+      "value": 0.13,
+      "prize": null
+    },
+    {
+      "position": 26,
+      "name": "junior336064673",
+      "value": 0.09,
+      "prize": null
+    },
+    {
+      "position": 27,
+      "name": "RiverEnds",
+      "value": 0.08,
+      "prize": null
+    },
+    {
+      "position": 28,
+      "name": "GameSetAndCash",
+      "value": 0.08,
+      "prize": null
+    }
+  ]
+}

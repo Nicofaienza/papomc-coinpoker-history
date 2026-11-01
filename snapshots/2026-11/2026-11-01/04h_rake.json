@@ -1,0 +1,147 @@
+{
+  "snap_date": "2026-11-01",
+  "period": "November 2026",
+  "type": "rake",
+  "taken_at": "2026-11-01T04:02:13Z",
+  "slot_label": "04h UTC",
+  "players": [
+    {
+      "position": 1,
+      "name": "nimble103888322",
+      "value": 41.54,
+      "prize": "$890"
+    },
+    {
+      "position": 2,
+      "name": "raguezz",
+      "value": 19.5,
+      "prize": "$600"
+    },
+    {
+      "position": 3,
+      "name": "adorable2157936",
+      "value": 7.4,
+      "prize": "$450"
+    },
+    {
+      "position": 4,
+      "name": "Elrey222",
+      "value": 5.0,
+      "prize": "$320"
+    },
+    {
+      "position": 5,
+      "name": "rageraising",
+      "value": 2.92,
+      "prize": "$260"
+    },
+    {
+      "position": 6,
+      "name": "RickoH",
+      "value": 2.84,
+      "prize": "$220"
+    },
+    {
+      "position": 7,
+      "name": "vengeful7301818",
+      "value": 2.0,
+      "prize": "$190"
+    },
+    {
+      "position": 8,
+      "name": "incompatible608",
+      "value": 1.43,
+      "prize": "$170"
+    },
+    {
+      "position": 9,
+      "name": "HappyEVMachine",
+      "value": 1.3,
+      "prize": "$155"
+    },
+    {
+      "position": 10,
+      "name": "Aveto",
+      "value": 1.2,
+      "prize": "$145"
+    },
+    {
+      "position": 11,
+      "name": "Santiago2424",
+      "value": 0.8,
+      "prize": "$135"
+    },
+    {
+      "position": 12,
+      "name": "ikerchua",
+      "value": 0.6,
+      "prize": "$125"
+    },
+    {
+      "position": 13,
+      "name": "Sek3kama",
+      "value": 0.5,
+      "prize": "$120"
+    },
+    {
+      "position": 14,
+      "name": "HeizseN",
+      "value": 0.48,
+      "prize": "$115"
+    },
+    {
+      "position": 15,
+      "name": "haunting2197200",
+      "value": 0.41,
+      "prize": "$105"
+    },
+    {
+      "position": 16,
+      "name": "e1n3gr1t0o",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 17,
+      "name": "large4549776210",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 18,
+      "name": "GEOcNarg",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 19,
+      "name": "imperfect169488",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 20,
+      "name": "tiny00937835349",
+      "value": 0.3,
+      "prize": null
+    },
+    {
+      "position": 21,
+      "name": "short6278066790",
+      "value": 0.27,
+      "prize": null
+    },
+    {
+      "position": 22,
+      "name": "cooked912531225",
+      "value": 0.18,
+      "prize": null
+    },
+    {
+      "position": 23,
+      "name": "Pokerchip2026",
+      "value": 0.04,
+      "prize": null
+    }
+  ]
+}
